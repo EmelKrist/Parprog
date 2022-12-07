@@ -1,0 +1,90 @@
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\nlog.config
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\NLog.dll
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\krist\Desktop\VSprogects\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\nlog.config
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\bin\Debug\net6.0\NLog.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\nlog.config
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\bin\Debug\net6.0\NLog.dll
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\nlog.config
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\bin\Debug\net6.0\NLog.dll
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\krist\OneDrive\Документы\Concurrent-computing\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\nlog.config
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+D:\Parprog\lab1\Lab1\bin\Debug\net6.0\NLog.dll
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+D:\Parprog\lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll

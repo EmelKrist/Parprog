@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+W5+mLU3V73Bm/UviLfRC5yXyJtAXBZQFA3ZFsizPS6EQ1+afH4DrSO3k8uYzuoeadc++nE5TwL42eaW0dr0Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krist\\Desktop\\VSprogects\\Concurrent-computing-lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\nlog.schema\\5.0.4\\nlog.schema.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

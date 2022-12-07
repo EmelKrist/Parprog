@@ -1,0 +1,5 @@
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Release\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Release\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Release\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Release\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krist\OneDrive\Рабочий стол\Concurrent-computing-lab1\Lab1\obj\Release\net6.0\Lab1.csproj.CoreCompileInputs.cache
