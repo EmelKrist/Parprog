@@ -1,34 +1,34 @@
-#include "CalculateTask.h"
+п»ї#include "CalculateTask.h"
 #include "WorkTask.h"
 
-/// <summary>Конструктор класса CalculateTask.</summary>
-/// <param name="arr">Последовательность чисел</param>
-/// <param name="countTh">Количество потоков</param>
+/// <summary>РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РєР»Р°СЃСЃР° CalculateTask.</summary>
+/// <param name="arr">РџРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕСЃС‚СЊ С‡РёСЃРµР»</param>
+/// <param name="countTh">РљРѕР»РёС‡РµСЃС‚РІРѕ РїРѕС‚РѕРєРѕРІ</param>
 CalculateTask::CalculateTask(std::vector <int> arr, int countTh): arrElem(arr), countThreads(countTh)
 {
-	// Запускаем режимы вычислений
+	// Р—Р°РїСѓСЃРєР°РµРј СЂРµР¶РёРјС‹ РІС‹С‡РёСЃР»РµРЅРёР№
 	executionWithoutThread(); 
 	executionWithThreadCS();
 	executionWithThreadRV();
 }
 
 
-/// <summary>Метод для однопоточного вычисления.</summary>
+/// <summary>РњРµС‚РѕРґ РґР»СЏ РѕРґРЅРѕРїРѕС‚РѕС‡РЅРѕРіРѕ РІС‹С‡РёСЃР»РµРЅРёСЏ.</summary>
 void CalculateTask::executionWithoutThread() 
 {
 	double result = 0;
 	
-	double time = omp_get_wtime(); // старт таймера
+	double time = omp_get_wtime(); // СЃС‚Р°СЂС‚ С‚Р°Р№РјРµСЂР°
 	for (int i = 0; i < arrElem.size(); i++) {
 		result += sqrt(arrElem[i]);
 	}
-	time = omp_get_wtime() - time; // Получаем время
-	// Выводим результ и время выполнения
-	writeOutputData("Выполнение в однопоточном режиме.", result, time);
+	time = omp_get_wtime() - time; // РџРѕР»СѓС‡Р°РµРј РІСЂРµРјСЏ
+	// Р’С‹РІРѕРґРёРј СЂРµР·СѓР»СЊС‚ Рё РІСЂРµРјСЏ РІС‹РїРѕР»РЅРµРЅРёСЏ
+	writeOutputData("Р’С‹РїРѕР»РЅРµРЅРёРµ РІ РѕРґРЅРѕРїРѕС‚РѕС‡РЅРѕРј СЂРµР¶РёРјРµ.", result, time);
 }
 
 
-/// <summary>Метод для многопоточного вычисления с использованием критической секции.</summary>
+/// <summary>РњРµС‚РѕРґ РґР»СЏ РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕРіРѕ РІС‹С‡РёСЃР»РµРЅРёСЏ СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РєСЂРёС‚РёС‡РµСЃРєРѕР№ СЃРµРєС†РёРё.</summary>
 void CalculateTask::executionWithThreadCS()
 {
 	double result = 0;
@@ -51,11 +51,11 @@ void CalculateTask::executionWithThreadCS()
 	}
 	time = omp_get_wtime() - time;
 	
-	writeOutputData("Выполнение в многопоточном режиме(критическая секция).", result, time);
+	writeOutputData("Р’С‹РїРѕР»РЅРµРЅРёРµ РІ РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕРј СЂРµР¶РёРјРµ(РєСЂРёС‚РёС‡РµСЃРєР°СЏ СЃРµРєС†РёСЏ).", result, time);
 }
 
 
-/// <summary>Метод для многопоточного вычисления с использованием редуктивной переменной.</summary>
+/// <summary>РњРµС‚РѕРґ РґР»СЏ РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕРіРѕ РІС‹С‡РёСЃР»РµРЅРёСЏ СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј СЂРµРґСѓРєС‚РёРІРЅРѕР№ РїРµСЂРµРјРµРЅРЅРѕР№.</summary>
 void CalculateTask::executionWithThreadRV()
 {
 	double result = 0;
@@ -67,7 +67,7 @@ void CalculateTask::executionWithThreadRV()
 	}
 	time = omp_get_wtime() - time;
 	
-	writeOutputData("Выполнение в многопоточном режиме(редуктивная переменная).", result, time);
+	writeOutputData("Р’С‹РїРѕР»РЅРµРЅРёРµ РІ РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕРј СЂРµР¶РёРјРµ(СЂРµРґСѓРєС‚РёРІРЅР°СЏ РїРµСЂРµРјРµРЅРЅР°СЏ).", result, time);
 }
 
 

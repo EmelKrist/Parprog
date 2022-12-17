@@ -1,13 +1,13 @@
-﻿  WorkTask.cpp
+﻿  CalculateTask.cpp
+d:\parprog\lab2\lab2\calculatetask.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+d:\parprog\lab2\lab2\calculatetask.cpp(27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\parprog\lab2\lab2\calculatetask.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+d:\parprog\lab2\lab2\calculatetask.cpp(54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\parprog\lab2\lab2\calculatetask.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+d:\parprog\lab2\lab2\calculatetask.cpp(70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  WorkTask.cpp
   Main.cpp
   CommandLine.cpp
-  CalculateTask.cpp
-c:\users\krist\onedrive\документы\visual studio 2015\projects\lab2\lab2\calculatetask.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\krist\onedrive\документы\visual studio 2015\projects\lab2\lab2\calculatetask.cpp(27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-c:\users\krist\onedrive\документы\visual studio 2015\projects\lab2\lab2\calculatetask.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\krist\onedrive\документы\visual studio 2015\projects\lab2\lab2\calculatetask.cpp(54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-c:\users\krist\onedrive\документы\visual studio 2015\projects\lab2\lab2\calculatetask.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\krist\onedrive\документы\visual studio 2015\projects\lab2\lab2\calculatetask.cpp(70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
   Создание кода...
-  lab2.vcxproj -> C:\Users\krist\OneDrive\Документы\Visual Studio 2015\Projects\lab2\Debug\lab2.exe
-  lab2.vcxproj -> C:\Users\krist\OneDrive\Документы\Visual Studio 2015\Projects\lab2\Debug\lab2.pdb (Full PDB)
+  lab2.vcxproj -> D:\Parprog\lab2\Debug\lab2.exe
+  lab2.vcxproj -> D:\Parprog\lab2\Debug\lab2.pdb (Full PDB)

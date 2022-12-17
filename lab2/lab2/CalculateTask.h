@@ -1,4 +1,4 @@
-#pragma once
+п»ї#pragma once
 #include <iostream>
 #include <ctime>
 #include <stdio.h>
@@ -10,8 +10,8 @@ class CalculateTask {
 public:
 	CalculateTask(std::vector <int> arr, int countTh);
 private:
-	int countThreads; // Количество потоков
-	std::vector <int> arrElem; //Посдеовательность чисел
+	int countThreads; // РљРѕР»РёС‡РµСЃС‚РІРѕ РїРѕС‚РѕРєРѕРІ
+	std::vector <int> arrElem; //РџРѕСЃРґРµРѕРІР°С‚РµР»СЊРЅРѕСЃС‚СЊ С‡РёСЃРµР»
 	void executionWithoutThread();
 	void executionWithThreadCS();
 	void executionWithThreadRV();

@@ -1,10 +1,10 @@
-#include "CommandLine.h"
+п»ї#include "CommandLine.h"
 
 int main() 
 {
     setlocale(LC_ALL, "Russian");
 	
-	// Запускаем консольное приложение 
+	// Р—Р°РїСѓСЃРєР°РµРј РєРѕРЅСЃРѕР»СЊРЅРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ 
     CommandLine cmd;
     cmd.startWork();
 	
