@@ -1,0 +1,7 @@
+﻿  MpiexecTask.cpp
+  Main.cpp
+  CommandLine.cpp
+  Создание кода...
+CommandLine.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+  lab3.vcxproj -> D:\Parprog\lab3\Debug\lab3.exe
+  lab3.vcxproj -> D:\Parprog\lab3\Debug\lab3.pdb (Full PDB)
